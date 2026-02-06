@@ -1,6 +1,6 @@
 -Otimização do codigo css
 
--Criação de mobilenavbarserv para melhor personalização
+-Criação de mobile.navbar.transparent.js para melhor personalização
 
 -Footer corrijido
 
